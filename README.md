@@ -17,7 +17,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.gg/jasfo" target="_blank">
+  <a href="https://discord.com/users/551026768514121738" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
   </a>
   <!-- Add other social media links here -->
